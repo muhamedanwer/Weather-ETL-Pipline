@@ -14,11 +14,7 @@
 - Airflow
 
 
-### Customization
 
-    - Add more cities in config.py
-    - Modify transformation logic in transform.py
-    - Create custom visualizations in Jupyter notebook
 
 Detailed Documentation
 
